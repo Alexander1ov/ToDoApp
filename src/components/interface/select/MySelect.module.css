@@ -1,0 +1,15 @@
+.select {
+    height: 32px;
+    cursor: pointer;
+    background-color: #F8F8F8;
+    margin: 15px;
+    border: 3px solid #DADADA;
+    border-radius: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+
+    box-shadow: 0px 10px 40px rgba(9, 113, 232, 0.35);
+
+}

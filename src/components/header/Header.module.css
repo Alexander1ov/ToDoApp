@@ -1,0 +1,36 @@
+.header {
+
+    padding-top: 0;
+    padding-left: 5vw;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2vw;
+    color: aliceblue;
+
+  
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  .header__logo {
+    top: 20px;
+    width: 50vw;
+    cursor:context-menu;
+
+    position: relative;
+  }
+  
+  
+  
+  
+  
+  .menu {
+    top: 10px;
+    width: 50vw;
+    right: 1vw;
+    position: relative;
+  
+  }
+  

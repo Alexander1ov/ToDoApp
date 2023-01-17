@@ -1,0 +1,49 @@
+.content {
+  flex: 1 1 auto;
+}
+.headerH1{
+  text-align: center;
+  color: #EBEBEB
+}
+
+.catalog__content {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.card {
+  display: flex;
+  margin-left: 10px;
+  width: 220px;
+  height: 400px;
+  background-color: aliceblue;
+  flex-direction: column;
+  justify-content: space-between;
+
+  padding: 15px;
+
+  border: 3px solid #DADADA;
+  border-radius: 5px;
+  margin-bottom: 5px;
+
+
+  box-shadow: 0px 10px 40px rgba(9, 113, 232, 0.35);
+  transition: transform 0.2s ease-in;
+}
+
+.card__content{
+  cursor:context-menu;
+  height:  370px;
+  overflow:hidden
+}
+
+.card__btns{
+  margin-left: 120px
+}

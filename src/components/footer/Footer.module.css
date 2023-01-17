@@ -1,0 +1,16 @@
+.footer {
+    width: 100vw;
+    height: 100px;
+    background-color: aliceblue;
+    right: 0;
+    left: 0;
+    display: block;
+}
+
+.footer__content {
+    font-weight: 400;
+    font-size: 14px;
+    top: 35px;
+    left: 10vw;
+    position: relative;
+}
